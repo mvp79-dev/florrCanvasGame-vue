@@ -2,6 +2,7 @@
 
 - ***This repository can get your account banned, use with extreme caution***
 
+- *WGB means "won't get you banned*
 ## 🚀 Getting Started
 
 All these scripts use Tampermonkey, so you'll need to install it.
@@ -47,8 +48,8 @@ Here are some of the awesome userscripts you'll find in this repository:
 
 - **Tracers**: Traces flowers, mobs, and summoned pets.
 - **Auto Grind**: Grinds with mouse movement.
-- **Craft Progress**: Allows you to input a petal goal and tracks it for you. (Made by Furaken)
-And more!
+- **Craft Progress**: Allows you to input a petal goal and tracks it for you. (Made by Furaken) *WGB*
+- **Guild Script**: Creates a simple script to show guild updates. *WGB*
 
 Each script should automatically work, if not contact me.
 
