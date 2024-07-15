@@ -4,22 +4,31 @@
 
 ## 🚀 Getting Started
 
-All these scripts use Tampermonkey,  so you'll need to install it.
+All these scripts use Tampermonkey, so you'll need to install it.
+
 ### 1. Install Tampermonkey
 
 Tampermonkey is available for most browsers, including Chrome, Firefox, Safari, and Edge.
 
 #### Chrome
-[![Install Tampermonkey for Chrome](https://www.tampermonkey.net/images/logo-chrome.png)](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+<a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">
+  <img src="images/chrome.png" width="20" height="20" style="vertical-align:middle;"> Install Tampermonkey for Chrome
+</a>
 
 #### Firefox
-[![Install Tampermonkey for Firefox](https://www.tampermonkey.net/images/logo-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+<a href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/">
+  <img src="images/firefox.png" width="20" height="20" style="vertical-align:middle;"> Install Tampermonkey for Firefox
+</a>
 
 #### Safari
-[![Install Tampermonkey for Safari](https://www.tampermonkey.net/images/logo-safari.png)](https://www.tampermonkey.net/?browser=safari)
+<a href="https://www.tampermonkey.net/?browser=safari">
+  <img src="images/safari.png" width="20" height="20" style="vertical-align:middle;"> Install Tampermonkey for Safari
+</a>
 
 #### Edge
-[![Install Tampermonkey for Edge](https://www.tampermonkey.net/images/logo-edge.png)](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+<a href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">
+  <img src="images/edge.png" width="20" height="20" style="vertical-align:middle;"> Install Tampermonkey for Edge
+</a>
 
 ### 2. Add Userscripts
 
@@ -45,7 +54,7 @@ Each script should automatically work, if not contact me.
 
 ## 🔧 Contributing
 
-Contributions are weclome! If you have an idea for a new script or improvements to existing ones, feel free to fork this repository and submit a pull request.
+Contributions are welcome! If you have an idea for a new script or improvements to existing ones, feel free to fork this repository and submit a pull request.
 
 ## 📢 Support
 
@@ -59,4 +68,4 @@ For any direct inquiries, you can contact me via email at [azelifyofficial@gmail
 
 *Make sure not to get banned.* 🌸✨ Happy hacking!
 
-![JavaScript](https://www.svgrepo.com/show/349419/javascript.svg)
+![JavaScript](images/js.png)
