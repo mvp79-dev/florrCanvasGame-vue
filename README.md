@@ -2,7 +2,7 @@
 
 - ***This repository can get your account banned, use with extreme caution***
 
-- *WGB means "won't get you banned*
+- *WGB means "won't get you banned"*
 ## 🚀 Getting Started
 
 All these scripts use Tampermonkey, so you'll need to install it.
@@ -45,6 +45,7 @@ Once Tampermonkey is installed, follow the steps below.
 ## 📜 Available Userscripts
 
 Here are some of the awesome userscripts you'll find in this repository:
+- *WGB means "won't get you banned"*
 
 - **Tracers**: Traces flowers, mobs, and summoned pets.
 - **Auto Grind**: Grinds with mouse movement.
