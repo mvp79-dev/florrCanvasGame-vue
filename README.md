@@ -1,4 +1,4 @@
-# 🌸 florr.io Userscripts 🌸
+# <img src="images/flower.webp" width="30" height="30"> florr.io Userscripts <img src="images/flower.webp" width="30" height="30">
 
 - ***This repository can get your account banned, use with extreme caution***
 
@@ -32,7 +32,7 @@ Tampermonkey is available for most browsers, including Chrome, Firefox, Safari, 
 
 ### 2. Add Userscripts
 
-Once Tampermonkey is installed, follow the below.
+Once Tampermonkey is installed, follow the steps below.
 
 1. **Open Tampermonkey Dashboard:** Click on the Tampermonkey icon in your browser toolbar and select "Dashboard."
 2. **Create a New Script:** Click on the "+" icon to create a new script.
@@ -66,6 +66,6 @@ For any direct inquiries, you can contact me via email at [azelifyofficial@gmail
 
 ---
 
-*Make sure not to get banned.* 🌸✨ Happy hacking!
+*Make sure not to get banned.* <img src="images/flower.webp" width="10" height="10">✨ Happy hacking!
 
-![JavaScript](images/js.png)
+<img src="images/javascript.png" width="50" height="50">
