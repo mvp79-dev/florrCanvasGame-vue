@@ -68,4 +68,4 @@ For any direct inquiries, you can contact me via email at [azelifyofficial@gmail
 
 *Make sure not to get banned.* <img src="images/flower.webp" width="10" height="10">✨ Happy hacking!
 
-<img src="images/javascript.png" width="50" height="50">
+# Made with <img src="images/javascript.png" width="30" height="30"> by kit2d2.
