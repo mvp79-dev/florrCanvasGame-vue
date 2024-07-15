@@ -2,7 +2,7 @@
 // @name Anti-AFK
 // @author kit2d2
 // @namespace Tampermonkey Scripts
-// @match https://florr.io
+// @match https://florr.io/*
 // @grant none
 // ==/UserScript==
 
@@ -10,7 +10,7 @@
     function clickImHereButton() {
         var buttons = document.querySelectorAll('button'); 
         buttons.forEach(function(button) {
-            if (button.textContent.trim().toLowerCase() === "I'm here") {
+            if (button.textContent.trim() === "I'm here") { // case sens
                 button.click();
             }
         });
