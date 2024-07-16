@@ -5,8 +5,8 @@
 // @match https://florr.io/*
 // @grant none
 // ==/UserScript==
-
-(function() {
+// broken atm since i used html butotns im kindof dumb
+/*(function() {
     function clickImHereButton() {
         var buttons = document.querySelectorAll('button'); 
         buttons.forEach(function(button) {
