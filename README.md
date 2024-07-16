@@ -51,6 +51,7 @@ Here are some of the awesome userscripts you'll find in this repository:
 - **Auto Grind**: Grinds with mouse movement.
 - **Craft Progress**: Allows you to input a petal goal and tracks it for you. (Made by Furaken) *WGB*
 - **Guild Script**: Creates a simple script to show guild updates. *WGB*
+- **Shaders**: Add realistic shadows to the game! (Fixed by me, originial by Jekyll) *WGB*
 
 Each script should automatically work, if not contact me.
 
