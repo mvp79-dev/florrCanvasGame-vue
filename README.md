@@ -1,5 +1,7 @@
 # <img src="images/flower.webp" width="30" height="30"> florr.io Userscripts <img src="images/flower.webp" width="30" height="30">
 
+## Any forks of this repository must be open sourced, distributing public versions of these hacks without being fully open sourced is illegal.
+
 - ***This repository can get your account banned, use with extreme caution***
 
 - *WGB means "won't get you banned"*
