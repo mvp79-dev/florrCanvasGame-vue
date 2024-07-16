@@ -54,8 +54,19 @@ Here are some of the awesome userscripts you'll find in this repository:
 - **Craft Progress**: Allows you to input a petal goal and tracks it for you. (Made by Furaken) *WGB*
 - **Guild Script**: Creates a simple script to show guild updates. *WGB*
 - **Shaders**: Add realistic shadows to the game! (Fixed by me, originial by Jekyll) *WGB*
+- 
+### Tutorials how to operate:
+- Tracers, autogrind, autorespawn, all things in hacks.js can be changed to true or false. (1 or 0)
+- To operate shaders, press `+`. (Make sure to hold down shift)
+- 
+Each script besides these should automatically work, if not contact me on [Discord](https://discord.gg/MqvmBu5tWa)
 
-Each script should automatically work, if not contact me.
+
+
+
+
+
+
 
 ## 🔧 Contributing
 
