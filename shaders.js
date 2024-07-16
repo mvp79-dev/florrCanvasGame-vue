@@ -212,9 +212,9 @@
     div.style.position = "absolute";
     div.style.bottom = "0px";
     const text = document.createElement("a");
-    text.text = "Script by Jekyll#1984, Enjoy!";
-    text.title = "Skara's Biolink";
-    text.href = "https://skara.glitch.me/";
+    text.text = "";
+    text.title = "Discord";
+    text.href = "https://discord.gg/MqvmBu5tWa";
     text.style.float = "right";
     text.style.padding = "0px";
     text.style.margin = "0px";
