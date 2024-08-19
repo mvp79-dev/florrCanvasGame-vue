@@ -56,6 +56,9 @@ Here are some of the awesome userscripts you'll find in this repository:
 - **Shaders**: Add realistic shadows to the game! (Fixed by me, originial by Jekyll) *WGB*
 - **Anti-AFK**: Make issue, look at hacks.js and make it. It's rather easy, I'm just too lazy.
 - **Free Sandbox**: Script by k2r_n2iq, uses memory editing to simulate every petal in your inventory. For this script, you paste it in the console, not with tampermonkey.
+- **Account Creator**: Script by Bloss, generates a new guest UUID and edits your localstorage to that ID, giving you a new account. *WGB If used correctly**
+
+**NONE OF THESE SCRIPTS HAVE GOTTEN ME BANNED YET**
 ### Tutorials how to operate:
 - Tracers, autogrind, autorespawn, all things in hacks.js can be changed to true or false. (1 or 0)
 - To operate shaders, press `+`. (Make sure to hold down shift)
