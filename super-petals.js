@@ -8,7 +8,7 @@
 (async () => {
 
 	const currentVersionHash = (await (await fetch("https://florr.io")).text()).match(/const\sversionHash\s=\s"(.*)";/)[1];
-	if (currentVersionHash !== "609ac5d38b2b275f8ad7d29991ad6ae5cceda9b5") {
+	if (currentVersionHash !== "77476f75fdd26b8817bc87a8fd7fd7549a46308f"") {
 		console.error("nob");
 		return;
 	}
