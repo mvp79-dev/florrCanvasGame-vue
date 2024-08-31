@@ -63,7 +63,7 @@ Here are some of the awesome userscripts you'll find in this repository:
 - **Anti-AFK**: Make issue, look at hacks.js and make it. It's rather easy, I'm just too lazy.
 - **Free Sandbox**: Script by k2r_n2iq, uses memory editing to simulate every petal in your inventory. For this script, you paste it in the console, not with tampermonkey.
 - **Account Creator**: Script by Bloss, generates a new guest UUID and edits your localstorage to that ID, giving you a new account. *WGB If used correctly**
-
+- **Version Hash Finder**: Finds your version hash to replace with the old one if super-petals.js doesn't work. If you don't know how to do this, ping me on Discord and I'll update the script so you just have to paste it.
 **NONE OF THESE SCRIPTS HAVE GOTTEN ME BANNED YET**
 ### Tutorials how to operate:
 - Tracers, autogrind, autorespawn, all things in hacks.js can be changed to true or false. (1 or 0)
