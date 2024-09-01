@@ -1,7 +1,7 @@
 <p align="center">
   <img src="images/flower.webp" width="30" height="30">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=444444&background=44444400&center=true&repeat=false&width=226&height=31&lines=Florr-related+Userscripts!" alt="Florr-related Userscripts!">
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=444444&background=44444400&center=true&repeat=true&width=226&height=31&lines=Florr-related+Userscripts!" alt="Florr-related Userscripts!">
   </a>
   <img src="images/flower.webp" width="30" height="30">
 </p>
