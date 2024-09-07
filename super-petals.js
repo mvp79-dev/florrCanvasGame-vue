@@ -14,7 +14,7 @@
 
 	const kMaxRarities = 8;
 	const kMaxPetals = 80;
-	const petalInventoryBaseAddress = 2092972;
+	const petalInventoryBaseAddress = 2160116;
 
 	for (let petalIndex = 1; petalIndex <= kMaxPetals; petalIndex++) {
 		for (let rarityIndex = 0; rarityIndex < kMaxRarities; rarityIndex++) {
