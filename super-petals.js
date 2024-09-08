@@ -19,7 +19,7 @@
 	for (let petalIndex = 1; petalIndex <= kMaxPetals; petalIndex++) {
 		for (let rarityIndex = 0; rarityIndex < kMaxRarities; rarityIndex++) {
 			const offset = ((petalIndex * kMaxRarities + rarityIndex) << 2);
-			Module.HEAPU32[(petalInventoryBaseAddress + offset) >> 2] = 1;
+			Module.HEAPU32[(petalInventoryBaseAddress + offset) >> 2] = 20;
 		}
 	}
 
