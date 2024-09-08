@@ -21,17 +21,17 @@ Tampermonkey is available for most browsers, including Chrome, Firefox, Safari, 
 
 #### Chrome
 <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">
-  <img src="images/chrome.png" width="20" height="20" style="vertical-align:middle;"> Install Tampermonkey for Chrome
+  <img src="images/chrome.png" width="15" height="15" style="vertical-align:middle;"> Install Tampermonkey for Chrome
 </a>
 
 #### Firefox
 <a href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/">
-  <img src="images/firefox.png" width="20" height="20" style="vertical-align:middle;"> Install Tampermonkey for Firefox
+  <img src="images/firefox.png" width="15" height="15" style="vertical-align:middle;"> Install Tampermonkey for Firefox
 </a>
 
 #### Safari
 <a href="https://www.tampermonkey.net/?browser=safari">
-  <img src="images/safari.png" width="20" height="20" style="vertical-align:middle;"> Install Tampermonkey for Safari
+  <img src="images/safari.png" width="15" height="15" style="vertical-align:middle;"> Install Tampermonkey for Safari
 </a>
 
 ### 2. Add Userscripts
