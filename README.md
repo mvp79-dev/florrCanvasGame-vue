@@ -34,11 +34,6 @@ Tampermonkey is available for most browsers, including Chrome, Firefox, Safari, 
   <img src="images/safari.png" width="20" height="20" style="vertical-align:middle;"> Install Tampermonkey for Safari
 </a>
 
-#### Edge
-<a href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">
-  <img src="images/edge.png" width="20" height="20" style="vertical-align:middle;"> Install Tampermonkey for Edge
-</a>
-
 ### 2. Add Userscripts
 
 Once Tampermonkey is installed, follow the steps below.
