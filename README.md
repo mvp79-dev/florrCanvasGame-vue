@@ -1,3 +1,6 @@
+![Visitor Badge](https://komarev.com/ghpvc/?username=kit2d2alt&repo=florr.io) (+2,000 Views from before I added this. Join the Discord for more detailed insights)
+
+
 <p align="center">
   <img src="images/flower.webp" width="30" height="30">
   <a href="https://git.io/typing-svg">
