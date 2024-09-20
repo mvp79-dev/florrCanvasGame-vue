@@ -11,6 +11,34 @@
 - ***This repository can get your account banned, use with extreme caution***
 
 - *WGB means "won't get you banned"*
+
+## Table of Contents
+[Chinese Anthos](#-build-instructions)
+1. [Getting Started](#-getting-started)
+2. [Available Userscripts](#-available-userscripts)
+3. [Tutorials](#tutorials-how-to-operate)
+4. [Contributing](#-contributing)
+5. [Support](#-support)
+6. [Contact](#-contact)
+
+## 🚧 Build Instructions
+
+If you don't have the prerequisites, do this.
+- Create a new GitHub account.
+- Star this repository. This is important as it enables the next step.
+- After you have starred the repository, click the + symbol.
+- Navigate to "Create a new Codespace".
+- Type in kit2d2alt/florr.io as the repository.
+### Then follow the steps below!
+
+1. Open your terminal and navigate to the `chinese-anthos` folder:
+   ```bash
+   cd chinese-anthos
+   npm install
+   npm run dev
+   ```
+2. Then open the port!
+
 ## 🚀 Getting Started
 
 All these scripts use Tampermonkey, so you'll need to install it.
