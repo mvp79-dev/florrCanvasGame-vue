@@ -1,4 +1,4 @@
-![Visitor Badge](https://komarev.com/ghpvc/?username=kit2d2alt&repo=florr.io) (+2,000 Views from before I added this. Join the Discord for more detailed insights)
+![Visitor Badge](https://komarev.com/ghpvc/?username=kit2d2alt&repo=florr.io) (Since 9/20/2024)
 
 
 <p align="center">
