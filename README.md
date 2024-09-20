@@ -1,6 +1,3 @@
-![Visitor Badge](https://komarev.com/ghpvc/?username=kit2d2alt&repo=florr.io) (Since 9/20/2024)
-
-
 <p align="center">
   <img src="images/flower.webp" width="30" height="30">
   <a href="https://git.io/typing-svg">
