@@ -93,7 +93,7 @@ Here are some of the awesome userscripts you'll find in this repository:
 - Tracers, autogrind, autorespawn, all things in hacks.js can be changed to true or false. (1 or 0)
 - To operate shaders, press `+`. (Make sure to hold down shift)
 - For the sandbox script, you open dev tools, navigate to console, and paste the script. If a warning appears, type `allow pasting` before hitting enter.
-Each script besides these should automatically work, if not contact me on [Discord](https://discord.gg/MqvmBu5tWa)
+Each script besides these should automatically work, if not contact me on [Discord](https://discord.gg/DBJ85MEs)
 
 ## 🔧 Contributing
 
@@ -105,10 +105,10 @@ If you encounter any issues or have any questions, please open an issue on this 
 
 ## 📞 Contact
 
-For any direct inquiries, you can contact me via email at [azelifyofficial@gmail.com](mailto:azelifyofficial@gmail.com), via Discord `kit2d2`, or make an issue on this repository.
+For any direct inquiries, you can contact me via email at [toptalent48@gmail.com](mailto:toptalent48@gmail.com), via Discord `84478447`, or make an issue on this repository.
 
 ---
 
 *Make sure not to get banned.* <img src="images/flower.webp" width="10" height="10">✨ Happy hacking!
 
-# Made in <img src="images/javascript.png" width="30" height="30"> by kit2d2.
+# Made in <img src="images/javascript.png" width="30" height="30"> by MVP.
